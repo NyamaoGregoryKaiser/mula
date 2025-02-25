@@ -78,7 +78,7 @@ export default function Navbar({ onMenuToggle }) {
               href="/"
               className="block text-xl hover:text-gold px-2 py-1"
             >
-              Home
+              Nyumbani
             </Link>
             <Link
               id="videoSeries"
